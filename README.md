@@ -19,21 +19,13 @@ This desktop calculator project is a feature-rich application developed using Re
 
 Follow these instructions to get the calculator up and running on your local machine:
 
-1. Clone the repository:
-
-**git clone https://github.com/your-username/desktop-calculator.git**
+1. Clone the repository: **git clone https://github.com/your-username/desktop-calculator.git**
 
 
-2. Navigate to the project directory:
-
-**cd frontend**
+2. Navigate to the project directory: **cd frontend**
 
 
-3. Install dependencies:
-
-**npm install**
+3. Install dependencies: **npm install**
 
 
-4. Start the development server:
-
-**npm run dev**
+4. Start the development server: **npm run dev**
