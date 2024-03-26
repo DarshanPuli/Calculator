@@ -19,7 +19,7 @@ This desktop calculator project is a feature-rich application developed using Re
 
 Follow these instructions to get the calculator up and running on your local machine:
 
-1. Clone the repository: **git clone https://github.com/your-username/desktop-calculator.git**
+1. Clone the repository
 
 
 2. Navigate to the project directory: **cd frontend**
